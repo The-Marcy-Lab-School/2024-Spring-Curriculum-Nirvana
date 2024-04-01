@@ -42,3 +42,8 @@
 
 ---
 
+**Week 1**
+
+- **04/01/24 - Intro to Node** | [Slides](https://docs.google.com/presentation/d/1jrc92djJXRgo3LkTefu1SqIiQEIHfE97QoCTo1wYL1g/edit#slide=id.g27e91089935_0_10) | [Lecture Recording](https://youtu.be/2iqiRiV8j7w)
+
+---
