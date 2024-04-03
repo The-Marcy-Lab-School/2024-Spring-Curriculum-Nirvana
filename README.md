@@ -46,4 +46,7 @@
 
 - **04/01/24 - Intro to Node** | [Slides](https://docs.google.com/presentation/d/1jrc92djJXRgo3LkTefu1SqIiQEIHfE97QoCTo1wYL1g/edit#slide=id.g27e91089935_0_10) | [Lecture Recording](https://youtu.be/2iqiRiV8j7w)
 
+- **04/02/24 - Variables, Functions, Strings** | [Slides](https://docs.google.com/presentation/d/1l5fe4EL2DqOtXKfeKEhdxGxNI7k3nqHPQLbP3-Q706s/edit#slide=id.g1daa1ab0a7a_0_0) | [Lecture Recording](https://www.youtube.com/watch?v=iambf_jDL0Q)
+
+
 ---
