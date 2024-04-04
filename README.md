@@ -4,6 +4,7 @@
 ### Table of Contents
 - [Orientation](#orientation)
 - [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
+- [Mod 1 - Core JavaScript](#mod-1---core-javascript)
 ---
 
 ## Orientation
@@ -42,10 +43,31 @@
 
 ---
 
+## Mod 1 - Core JavaScript
+
+**Resources**
+
+- [Eloquent JavaScript (Online Textbook)](https://eloquentjavascript.net/)
+- [Codecademy: Intro to JavaScript Course](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
+- [She Codes JavaScript Cheatsheet](https://cheatsheets.shecodes.io/javascript)
+- [Mod 1 - All Skills List](https://github.com/The-Marcy-Lab-School/1-3-0-resource_mod-1-all-skills)
+- [Regex Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-regex)
+- [JavaScripts Basics Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-javascript-basics)
+
+
 **Week 1**
 
-- **04/01/24 - Intro to Node** | [Slides](https://docs.google.com/presentation/d/1jrc92djJXRgo3LkTefu1SqIiQEIHfE97QoCTo1wYL1g/edit#slide=id.g27e91089935_0_10) | [Lecture Recording](https://youtu.be/2iqiRiV8j7w)
-- **04/02/24 - Variables, Functions, Strings** | [Slides](https://docs.google.com/presentation/d/1l5fe4EL2DqOtXKfeKEhdxGxNI7k3nqHPQLbP3-Q706s/edit#slide=id.g1daa1ab0a7a_0_0) | [Lecture Recording](https://www.youtube.com/watch?v=iambf_jDL0Q) | [Office Hours](https://zoom.us/rec/play/QZTySNEsw-1y_HMmYBaJhA2_awo7a1sDJ7yhPkcRCbAcFlc96FKBUDEVRq1kUKKz4f4EHKGMzFmsgWyt.uqrlrbulie-yVH6k?autoplay=true&startTime=1712079211000)
+- **04/01/24 - Intro to Node** | [Slides](https://docs.google.com/presentation/d/1jrc92djJXRgo3LkTefu1SqIiQEIHfE97QoCTo1wYL1g) | [Lecture Recording](https://youtu.be/2iqiRiV8j7w)
+- **04/02/24 - Variables, Functions, Strings** | [Slides](https://docs.google.com/presentation/d/1l5fe4EL2DqOtXKfeKEhdxGxNI7k3nqHPQLbP3-Q706s) | [Lecture Recording](https://www.youtube.com/watch?v=iambf_jDL0Q) | [Office Hours](https://zoom.us/rec/play/QZTySNEsw-1y_HMmYBaJhA2_awo7a1sDJ7yhPkcRCbAcFlc96FKBUDEVRq1kUKKz4f4EHKGMzFmsgWyt.uqrlrbulie-yVH6k?autoplay=true&startTime=1712079211000)
+- **04/03/24 - Strings & Control Flow** | [Slides](https://docs.google.com/presentation/d/1A3FPpnVWFG42ChRusrrbWXVFnrC8hlm85IzgMHmadH8) | [Lecture Recording](https://youtu.be/GiohqszbXAI)
+- **04/04/24 - Problem Solving** | [Slides](https://docs.google.com/presentation/d/18WwjvW4fUJqWMBRSztn5TRV-qcrCmVr-I85CT0e3uv8/) | [Lecture Recording](https://us02web.zoom.us/rec/share/bGxNcGtltBqBh3ZFTIHvShJV9pkkFKhWlhqkynXx7AWK-hHaN0WFXWgSSCOGlFA7.xgaNrKkkNympcuhC?startTime=1712239688000)
+
+**Week 2**
+
+- **04/08/24 - Loops** | [Slides](https://docs.google.com/presentation/d/1AfrsNZRXMqoXx1pPtPzuJfImzyVz4-_6zRY-seuQVkc/)
+- **04/09/24 - Arrays** | [Slides](https://docs.google.com/presentation/d/1H5j6USVYQAAgSUFPoFZlNU2xN6UF-UglwdMap8TcNuw/)
+- **04/10/24 - Objects** | [Slides](https://docs.google.com/presentation/d/1xMVk45ROtn3QJwo2s-qtwunDplVhbB35SZ73kkidR1Y/)
+- **04/11/24 - Review**
 
 
 ---
