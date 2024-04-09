@@ -64,8 +64,8 @@
 
 **Week 2**
 
-- **04/08/24 - Loops** | [Slides](https://docs.google.com/presentation/d/) | [Lecture Recording](https://us02web.zoom.us/rec/share/miDEk5HFXAwStj3Fv0w1w5mzt4_P0fGHfwXer413l68wI7fxH8TVnTsENA_F8yy7.kq8peKVcb6eBf4GB?startTime=1712587799000)
-- **04/09/24 - Arrays** | [Slides](https://docs.google.com/presentation/d/) | [Lecture Recording](https://us02web.zoom.us/rec/share/nkTgp5nm0WmIjv7rBjORqe47vSIRgj0ZpX5Di8jGKp9Cz8UUzU3UxA_M9Te02pXb.Nig8JwdfCby0AMxq?startTime=1712671292000)
+- **04/08/24 - Loops** | [Slides](https://docs.google.com/presentation/d/) | [Lecture Recording](https://us02web.zoom.us/rec/share/miDEk5HFXAwStj3Fv0w1w5mzt4_P0fGHfwXer413l68wI7fxH8TVnTsENA_F8yy7.kq8peKVcb6eBf4GB?startTime=1712587799000) | [Code](https://replit.com/@madhur-xyz/LoopsLecture)
+- **04/09/24 - Arrays** | [Slides](https://docs.google.com/presentation/d/) | [Lecture Recording](https://us02web.zoom.us/rec/share/nkTgp5nm0WmIjv7rBjORqe47vSIRgj0ZpX5Di8jGKp9Cz8UUzU3UxA_M9Te02pXb.Nig8JwdfCby0AMxq?startTime=1712671292000) | [Code](https://replit.com/@madhur-xyz/ArraysLecture)
 - **04/10/24 - Objects** | [Slides](https://docs.google.com/presentation/d/1xMVk45ROtn3QJwo2s-qtwunDplVhbB35SZ73kkidR1Y/)
 - **04/11/24 - Review**
 
