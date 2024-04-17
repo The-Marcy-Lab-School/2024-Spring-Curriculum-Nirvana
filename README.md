@@ -71,8 +71,8 @@
 
 **Week 3**
 
-- **04/15/24 - Callbacks** | [Slides](https://docs.google.com/presentation/d/1xBOI37rbDhGdoCtBW8VEG8f34RfNkM_i1vftdAK6dDw/) | [Key Terms](./key-terms/1-6-callbacks.md) | [Code](https://replit.com/@madhur-xyz/CallbacksLecture) | [Madhur Recording](https://zoom.us/rec/play/69IvLQmo4eJxVGOW_2od1qdhEwliQbJPztI-QVr3--luHMHRW76NycaM0tEDgyurznv9Ygo2eW8CeJ4.AdZilxtBQwEB7VT4?autoplay=true&startTime=1713192544000) | [Ben Recording](https://youtu.be/KMw7QqbOe3A)
-- **04/16/24 - Array Higher Order Functions** | [Slides](https://docs.google.com/presentation/d/1xXdTbrNXYHAtRgEaLt91VLdGwDxq8PrVDQh70saLuD4/) | [Key Terms](./key-terms/1-7-array-hofs.md) | [Code](https://replit.com/@madhur-xyz/ArrayHOFsLecture#index.js) | [Madhur Recording](https://us02web.zoom.us/rec/share/W6SBLEs2YAFC8lURdzAtxdX1lAqAazAm81YUDWtRvrWx8U8NuJeyB0xRsMLABaaK.B6_Pf5tyVy1C6aA7?startTime=1713276423000) | [Ben Recording](https://youtu.be/K6d2WJJdqCc)
+- **04/15/24 - Callbacks** | [Slides](https://docs.google.com/presentation/d/1xBOI37rbDhGdoCtBW8VEG8f34RfNkM_i1vftdAK6dDw/) | [Key Terms](./key-terms/1-6-callbacks.md) | [Code](https://replit.com/@madhur-xyz/CallbacksLecture) | [Recording](https://youtu.be/KMw7QqbOe3A)
+- **04/16/24 - Array Higher Order Functions** | [Slides](https://docs.google.com/presentation/d/1xXdTbrNXYHAtRgEaLt91VLdGwDxq8PrVDQh70saLuD4/) | [Key Terms](./key-terms/1-7-array-hofs.md) | [Code](https://replit.com/@madhur-xyz/ArrayHOFsLecture#index.js) | [Recording](https://us02web.zoom.us/rec/share/W6SBLEs2YAFC8lURdzAtxdX1lAqAazAm81YUDWtRvrWx8U8NuJeyB0xRsMLABaaK.B6_Pf5tyVy1C6aA7?startTime=1713276423000)
 - **04/17/24 - Regex** | [Slides](https://docs.google.com/presentation/d/1GMj8kGOupNuDY7OjZ4tswBmZwU6tixw83k5iA702s00/)
 - **04/18/24 - Writing Code** | [Slides](https://docs.google.com/presentation/d/1VYIXNFwJ7GckcO-VPrCPhvHdgmLyfMN5CdOKbahwCaQ/)
 
