@@ -2,13 +2,13 @@
 
 ## Let's learn a new way to INVOKE functions.
 
-![](recipe.png)
+![Recipe](https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&webp=true&resize=600,545)
 
-Functions are like recipes. Sometimes we make a recipe (a function) so that WE can use the recipe to make a meal (we invoke the function). 
+**Functions are like recipes.** Sometimes we make a recipe (a function) so that **WE** can use the recipe to make a meal (we invoke the function). 
 
-Other times, we give recipes to our friends so that THEY can make the meal. 
+Other times, we give recipes to our friends so that **THEY** can make the meal. 
 
-Sometimes, we give our functions to other functions so that THEY can invoke our function.
+Sometimes, we give our functions to other functions so that **THEY** can invoke our function.
 
 ## A normal function
 
