@@ -73,7 +73,7 @@
 
 - **04/15/24 - Callbacks** | [Slides](https://docs.google.com/presentation/d/1xBOI37rbDhGdoCtBW8VEG8f34RfNkM_i1vftdAK6dDw/) | [Key Terms](./resources/1-6-callbacks.md) | [Code](https://replit.com/@madhur-xyz/CallbacksLecture) | [Recording](https://youtu.be/KMw7QqbOe3A)
 - **04/16/24 - Array Higher Order Functions** | [Slides](https://docs.google.com/presentation/d/1xXdTbrNXYHAtRgEaLt91VLdGwDxq8PrVDQh70saLuD4/) | [Key Terms](./resources/1-7-array-hofs.md) | [Code](https://replit.com/@madhur-xyz/ArrayHOFsLecture#index.js) | [Recording Part 1](https://us02web.zoom.us/rec/share/W6SBLEs2YAFC8lURdzAtxdX1lAqAazAm81YUDWtRvrWx8U8NuJeyB0xRsMLABaaK.B6_Pf5tyVy1C6aA7?startTime=1713276423000) | [Recording Part 2](https://us02web.zoom.us/rec/share/lE0sjFzaGD0lrqx4oA0KiZXElVL_onDqnAGIcCX7ZaoTdfZWn1mcbbcrpjP0MySW.iFkLERQxPWdy5quc?startTime=1713367474000)
-- **04/17/24 - Regex** | [Slides](https://docs.google.com/presentation/d/1GMj8kGOupNuDY7OjZ4tswBmZwU6tixw83k5iA702s00/) | [Cheat Sheet](./resources/1-8-regex.md)
+- **04/17/24 - Regex** | [Slides](https://docs.google.com/presentation/d/1GMj8kGOupNuDY7OjZ4tswBmZwU6tixw83k5iA702s00/) | [Cheat Sheet](./resources/1-8-regex.md) | [Code](https://replit.com/@madhur-xyz/RegexLecture#index.js) | [Recording](https://us02web.zoom.us/rec/share/638Z0R3dI1EJFBk60TeyU5wg7SoR87vixoNx_6Cf_CkzOaI2sTJMVuo3_QWV1dSr.7uEb9QFyO9-IxaTk?startTime=1713452929000)
 - **04/18/24 - Writing Code** | [Slides](https://docs.google.com/presentation/d/1VYIXNFwJ7GckcO-VPrCPhvHdgmLyfMN5CdOKbahwCaQ/)
 
 
