@@ -152,6 +152,10 @@ age = 19;       // Allowed
 PI = 3.14159;   // TypeError: cannot reassign const variables
 ```
 
+- `let` - reassignable, not hoisted, block scoped, doesn't affeect mutability
+- `const` - not reassignable, not hoisted, block scoped, doesn't affect mutability
+- `var` - reassignable, hoisted, function scoped, doesn't affect mutability
+
 - Variables must be referenced AFTER they are declared. Otherwise, a `ReferenceError` will be thrown.
 - Variables declared with `var` can be referenced BEFORE they are declared but will have the value `undefined`. This is due to **hoisting** and should be avoided.
 
