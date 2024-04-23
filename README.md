@@ -78,7 +78,7 @@
 
 **Week 4**
 
-- **04/22/24 - Week 1 Review** | [Study Guide](./study-guides/mod1-week1-study-guide.md)
+- **04/22/24 - Week 1 Review** | [Study Guide](./study-guides/mod1-week1-study-guide.md) | [Functions & Variables](./resources/1-1-vars-functions.md) | [Review Code](https://replit.com/@madhur-xyz/Mod1Week1Review#short-response.md)
 - **04/23/24 - Week 2 Review** | [Study Guide](./study-guides/mod1-week2-study-guide.md)
 - **04/24/24 - Week 3 Review**
 - **04/25/24 - Mod 1 Assessment**
