@@ -1,13 +1,13 @@
 # Mod 1 - Week 1 Study Guide 
 
 **Table of Contents**
-* [1-2-0 Callbacks & Higher Order Functions](#1-2-0-callbacks--higher-order-functions)
+* [1-6 Callbacks & Higher Order Functions](#1-6-callbacks--higher-order-functions)
   * [First, A Normal Function](#first-a-normal-function)
   * [Callbacks & Higher Order Functions](#callbacks--higher-order-functions)
-* [1-2-1 Array Higher Order Methods](#1-2-1-array-higher-order-methods)
+* [1-7 Array Higher Order Methods](#1-7-array-higher-order-methods)
   * [Declarative vs. Imperative Code](#declarative-vs-imperative-code)
   * [Array Higher Order Methods](#array-higher-order-methods)
-* [1-2-2 Regex](#1-2-2-regex)
+* [1-8 Regex](#1-8-regex)
   * [Regex Basics](#regex-basics)
   * [Character Sets](#character-sets)
   * [Special Character Sets](#special-character-sets)
@@ -18,7 +18,7 @@
   * [Finding Matches](#finding-matches)
 
 
-## 1-2-0 Callbacks & Higher Order Functions
+## 1-6 Callbacks & Higher Order Functions
 
 ### First, A Normal Function
 
@@ -82,7 +82,7 @@ greetBetter('Ben', 'Hello World', (msg) => `${msg}?`) // Ben said, Hello World?
 
 
 
-## 1-2-1 Array Higher Order Methods
+## 1-7 Array Higher Order Methods
 
 ### Declarative vs. Imperative Code
 
@@ -197,7 +197,7 @@ numbers.reduce((total, num) => total + num, 0);
 
 </details>
 
-## 1-2-2 Regex
+## 1-8 Regex
 
 ### Regex Basics
 
