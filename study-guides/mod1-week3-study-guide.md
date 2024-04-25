@@ -1,4 +1,4 @@
-# Mod 1 - Week 1 Study Guide 
+# Mod 1 - Week 3 Study Guide 
 
 **Table of Contents**
 * [1-6 Callbacks & Higher Order Functions](#1-6-callbacks--higher-order-functions)
