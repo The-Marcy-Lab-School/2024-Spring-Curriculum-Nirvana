@@ -81,7 +81,7 @@
 - **04/22/24 - Week 1 Review** | [Study Guide](./study-guides/mod1-week1-study-guide.md) | [Functions & Variables](./resources/1-1-vars-functions.md) | [Review Code](https://replit.com/@madhur-xyz/Mod1Week1Review#short-response.md)
 - **04/23/24 - Week 2 Review** | [Study Guide](./study-guides/mod1-week2-study-guide.md) | [Review Code](https://replit.com/@madhur-xyz/Mod1Week2Reviewjs#short-response.md)
 - **04/24/24 - Week 3 Review** | [Study Guide](./study-guides/mod1-week3-study-guide.md) | [Review Code](https://replit.com/@madhur-xyz/Mod1Week3Reviewjs#short-response.md)
-- **04/25/24 - Mod 1 Assessment**
+- **04/25/24 - Mod 1 Assessment** | [Assessment Answers](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ---
