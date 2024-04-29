@@ -85,3 +85,23 @@
 
 
 ---
+
+## Mod 2 - Core: HTML, CSS, and DOM Manipulation
+
+**Resources**
+* [Learn: Intro to Accessibility Video](https://www.youtube.com/watch?v=1A6SrPwmGpg&t=802s&ab_channel=WebDevSimplified)
+* [Learn: Flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU&ab_channel=KevinPowell)
+* [Learn: Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU&ab_channel=KevinPowell)
+* [Practice: CSS Diner](https://flukeout.github.io/)
+* [Practice: Flexbox Froggy](https://flexboxfroggy.com/)
+* [Practice: CSS Grid Garden](https://cssgridgarden.com/)
+* [Tutorial: Building a Responsive Hamburger Nav Menu (flexbox and media queries)](https://www.youtube.com/watch?v=At4B7A4GOPg)
+* [Codecademy: Build Interactive Websites Course](https://www.codecademy.com/learn/build-interactive-websites)
+* [Codecademy: Fullstack Engineer Career Path](https://www.codecademy.com/enrolled/paths/full-stack-engineer-career-path)
+* [DOM Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-DOM)
+
+**Week 1**
+* **04/29/24 - Intro to HTML** | [Key Terms](./resources/2-0-intro-to-html.md)
+* **04/30/24 - Intro to CSS**
+* **05/01/24 - CSS Positioning** 
+* **05/02/24 - Accessibility & HTML Best Practices**
