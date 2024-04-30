@@ -5,6 +5,7 @@
 - [Orientation](#orientation)
 - [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
 - [Mod 1 - Core JavaScript](#mod-1---core-javascript)
+- [Mod 2 - Core: HTML, CSS, and DOM Manipulation](#mod-2---core-html-css-and-dom-manipulation)
 ---
 
 ## Orientation
