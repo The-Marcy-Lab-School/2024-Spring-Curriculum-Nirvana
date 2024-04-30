@@ -103,6 +103,6 @@
 
 **Week 1**
 * **04/29/24 - Intro to HTML** | [Key Terms](./resources/2-0-intro-to-html.md)
-* **04/30/24 - Intro to CSS**
+* **04/30/24 - Intro to CSS** | [Key Terms](./resources/2-1-intro-to-css.md)
 * **05/01/24 - CSS Positioning** 
 * **05/02/24 - Accessibility & HTML Best Practices**
