@@ -105,4 +105,4 @@
 * **04/29/24 - Intro to HTML** | [Key Terms](./resources/2-0-intro-to-html.md) | [Recording Part 1](https://us02web.zoom.us/rec/share/Jd_SDZ6NIJFbBD86DGGCV-0GYKeb_sIbmaqFsC2F3Fyagk3PPjtr-0eatC4dDrt5.s2nhBq6lPMl6DYm7?startTime=1714402424000) | [Recording Part 2](https://us02web.zoom.us/recording/detail?meeting_id=tjUbM%2Fj7RQ2BexNNjwpQuQ%3D%3D)
 * **04/30/24 - Intro to CSS** | [Key Terms](./resources/2-1-intro-to-css.md) | [Recording](https://www.youtube.com/watch?v=KQdYKILn3d0)
 * **05/01/24 - CSS Positioning** | [Key Terms](./resources/2-2-css-positioning.md)
-* **05/02/24 - HTML & CSS Practice** | [Base Code](https://github.com/The-Marcy-Lab-School/2-2-css-practice-nirvana) | [Updated Code](https://github.com/madhurxyz/2-2-css-practice-nirvana)
+* **05/02/24 - HTML & CSS Practice** | [Base Code](https://github.com/The-Marcy-Lab-School/2-2-css-practice-nirvana) | [Updated Code](https://github.com/madhurxyz/2-2-css-practice-nirvana) | [Recording](https://us02web.zoom.us/rec/share/f7wD1zraTnIMoAQXJ49PVnf00JoPBOrVYbHbrXUayJ6BJSOCxnQ28CsKd8F21tWm.fRP6vm6oL2bMPCa4?startTime=1714677341000)
