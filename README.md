@@ -111,3 +111,4 @@
 **Week 2**
 
 * **5/7/24 - Flexbox** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-0-lecture-flexbox) | Recording
+* **5/8/24 - Grid + Media Queries** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-1-lecture-grid-media-queries) | Recording
