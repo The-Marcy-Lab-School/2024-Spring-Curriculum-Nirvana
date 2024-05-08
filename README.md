@@ -110,6 +110,6 @@
 
 **Week 2**
 
-* **5/7/24 - Flexbox** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-0-lecture-flexbox) | Recording
-* **5/8/24 - Grid + Media Queries** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-1-lecture-grid-media-queries) | Recording
+* **5/7/24 - Flexbox** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-0-lecture-flexbox) | [Recording](https://youtu.be/B3bLSMe0-FI)
+* **5/8/24 - Grid + Media Queries** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-1-lecture-grid-media-queries) | [Recording](https://youtu.be/rQgw-PUa12o)
 * **5/8/24 - Lab Review: Putting It All Together** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-2-lab-review-putting-it-all-together) | Recording
