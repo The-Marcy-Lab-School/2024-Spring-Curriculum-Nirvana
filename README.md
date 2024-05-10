@@ -114,3 +114,9 @@
 * **5/8/24 - Grid + Media Queries** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-1-lecture-grid-media-queries) | [Recording](https://youtu.be/rQgw-PUa12o)
 * **5/8/24 - Lab Review: Putting It All Together** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-2-lab-review-putting-it-all-together)
 * **5/9/24 - HTML & CSS Review** | [Recording](https://youtu.be/bAo-QDkiLao)
+
+**Week 3**
+
+* **5/13/24 - Intro to DOM** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-0-lecture-intro-to-dom)
+* **5/14/24 - Events** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-1-lecture-dom-events)
+* **5/15/24 - Forms** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-2-lecture-forms)
