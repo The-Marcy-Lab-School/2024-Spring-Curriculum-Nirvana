@@ -120,3 +120,13 @@
 * **5/13/24 - Intro to DOM** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-0-lecture-intro-to-dom) | [Recording](https://youtu.be/Ap6L56RetSY)
 * **5/14/24 - Events** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-1-lecture-dom-events) | [Recording](https://youtu.be/wMtTOiTwehA)
 * **5/15/24 - Forms** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-2-lecture-forms)
+
+**Week 4 (Project Week!)**
+
+* Project Option A - [Palette Picker](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_palette-picker)
+* Project Option B - [Compare Movies ChartJS](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_compare-movies)
+
+* **5/20/24 - ESModules + Vite** | [ESModules Repo](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-f23), [Vite Repo](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js)
+* **5/21/24 - Local Storage** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-1-localStorage-f23)
+* **5/22/24 - Review** | 
+* **5/23/24 - Deploying a Vite Project on GitHub pages** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
