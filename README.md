@@ -123,10 +123,11 @@
 
 **Week 4 (Project Week!)**
 
-* Project Option A - [Palette Picker](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_palette-picker)
-* Project Option B - [Compare Movies ChartJS](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_compare-movies)
-
 * **5/20/24 - ESModules + Vite** | [ESModules Repo](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-f23), [Vite Repo](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js)
 * **5/21/24 - Local Storage** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-1-localStorage-f23)
 * **5/22/24 - Review** | 
 * **5/23/24 - Deploying a Vite Project on GitHub pages** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
+
+**Project Week projects:**
+* Project Option A - [Palette Picker](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_palette-picker)
+* Project Option B - [Compare Movies ChartJS](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_compare-movies)
