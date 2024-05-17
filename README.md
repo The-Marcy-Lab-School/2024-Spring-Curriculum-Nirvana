@@ -119,7 +119,7 @@
 
 * **5/13/24 - Intro to DOM** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-0-lecture-intro-to-dom) | [Recording](https://youtu.be/Ap6L56RetSY)
 * **5/14/24 - Events** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-1-lecture-dom-events) | [Recording](https://youtu.be/wMtTOiTwehA)
-* **5/15/24 - Forms** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-2-lecture-forms)
+* **5/15/24 - Forms** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-2-lecture-forms) | [Recording](https://youtu.be/OWHv7zDHG2M)
 
 **Week 4 (Project Week!)**
 
