@@ -123,7 +123,7 @@
 
 **Week 4 (Project Week!)**
 
-* **5/20/24 - ESModules + Vite** | [ESModules Repo](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-f23), [Vite Repo](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js)
+* **5/20/24 - ESModules + Vite** | [ESModules Repo](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-f23), [Vite Repo](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js) | [Recording](https://youtu.be/BnJftny4lZA)
 * **5/21/24 - Local Storage** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-1-localStorage-f23)
 * **5/22/24 - Review** | 
 * **5/23/24 - Deploying a Vite Project on GitHub pages** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
