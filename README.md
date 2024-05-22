@@ -124,8 +124,8 @@
 **Week 4 (Project Week!)**
 
 * **5/20/24 - ESModules + Vite** | [ESModules Repo](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-f23), [Vite Repo](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js) | [Recording](https://youtu.be/BnJftny4lZA)
-* **5/21/24 - DOM Review (Dynamic Dog Cards)** | [Recording](https://youtu.be/y82_RoAiP4U)
-* **5/22/24 - Forms Review (Dynamic Dog Cards)** | [Recording](https://youtu.be/J_FE-xRwzy0)
+* **5/21/24 - DOM Review (Dynamic Dog Cards)** | [Repo](https://github.com/benspector-mls/dogs-dom-project-s24) | [Recording](https://youtu.be/y82_RoAiP4U)
+* **5/22/24 - Forms Review (Dynamic Dog Cards)** | [Repo](https://github.com/benspector-mls/dogs-dom-project-s24) | [Recording](https://youtu.be/J_FE-xRwzy0)
 * **5/22/24 - Local Storage** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-1-localStorage-f23)
 * **5/23/24 - Deploying a Vite Project on GitHub pages** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
 
