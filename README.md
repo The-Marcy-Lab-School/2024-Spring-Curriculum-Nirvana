@@ -1,17 +1,19 @@
 # Curriculum Resources
 
-- [**>Jump To Current Unit<**](#mod-2---core-html-css-and-dom-manipulation)
+- [**>Jump To Current Unit<**](#mod-3---core-asynchronous-javascript)
 
-### Table of Contents
+## Table of Contents
+
 - [Orientation](#orientation)
 - [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
 - [Mod 1 - Core JavaScript](#mod-1---core-javascript)
 - [Mod 2 - Core: HTML, CSS, and DOM Manipulation](#mod-2---core-html-css-and-dom-manipulation)
+
 ---
 
 ## Orientation
 
-**Computer Setup Instructions**
+Computer Setup Instructions
 
 - **Mac Setup**: https://github.com/The-Marcy-Lab-School/local-environment-setup-mac
 - **Windows/WSL Setup**: https://github.com/The-Marcy-Lab-School/local-environment-setup-wsl
@@ -132,3 +134,42 @@
 **Project Week projects:**
 * Project Option A - [Palette Picker](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_palette-picker)
 * Project Option B - [Compare Movies ChartJS](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_compare-movies)
+
+## Mod 3 - Core: Asynchronous JavaScript
+<!-- TODO @gonzalo Check in About updating repos -->
+Resources
+
+- [Async Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-async)
+
+Week 0
+<!-- get all the updated repos -->
+- **6/10/24 - Intro to Promises** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-0-intro-to-promises-S24) | [Recording](https://youtu.be/8vkO6hY_A3w)
+- **6/10/24 - Lab Review: Promises** | [Repo with Code - TBA](#) | [Recording - TBA](#)
+- **6/11/24 - Intro to Fetch** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-1-intro-fetch-S24) | [Recording](https://youtu.be/puqyTKr-XgY)
+- **6/12/24 - Building a Pokemeon API Search Form** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-2-pokedex-search-api-S24) | [Recording](https://youtu.be/ySnmIQ-IKtM)
+- **6/13/24 - Async/Await** | [Repo with Code](https://github.com/The-Marcy-Lab-School/3-0-2-async-await-f23) | [Recording](https://youtu.be/-dFkJo4dWCs)
+
+Week 1
+
+- **TBA - DOM Review** | [Recording](https://youtu.be/bKCYETgm6vk)
+- **TBA - Async Review** | [Recording](https://youtu.be/FlnRSSZhOnc)
+- **TBA - Fetch & Render Lab Review** | [Recording](https://youtu.be/qWXbg6aqEzM)
+- **TBA - DOM + Async Assessment**
+
+## Mod 4 - Core: Project Week
+
+Resources
+
+- [Project Week Overview](https://docs.google.com/document/d/1DJeh3CuHXrV6UWKbVUo42ct6b7EBgVSc6qn55IPd3zQ/edit?usp=sharing)
+- [Project Proposal Template](https://docs.google.com/document/d/1gSM_RWRAP_EJGQ7pp58Pti6PXKQJ_YWx3uvC4iRQ1EI/edit)
+- [Project Proposal Example](https://docs.google.com/document/d/1ekNpWx_LKCFGPQ74qijXTMRJJoq4sHJIB1mv9Mg8HHk/edit#heading=h.dwz367p60bre)
+- [APIs List](https://gist.github.com/MostlyFocusedMike/2a0825c062b79d33e5003f0f767ad0fa)
+- [Art Viewer Github Organization](https://github.com/Art-viewer-mike-example) ([Deployed Version 1](https://art-viewer-mike-example.github.io/art-viewer-day-1/), [V2](https://art-viewer-mike-example.github.io/art-viewer-day-2/), [V3](https://art-viewer-mike-example.github.io/art-viewer-day-3/), [V4](https://art-viewer-mike-example.github.io/art-viewer-day-4/))
+- [Scrum Board Example](https://github.com/users/benspector-mls/projects/3/views/1?layout=board)
+- [Project Presentation Template](https://docs.google.com/presentation/d/1NvzL4yUaVSNFlmNtG3shNdK4j0oW3Ll2zbq8gK2vrzQ/edit?usp=sharing)
+
+- **1/22/24 — Mod 3 Assessment Review** | [Recording](https://youtu.be/dv-A1qGX7iY)
+- **1/22/24 — Project Week Kickoff** | [Recording](https://youtu.be/wsRK3fslq68)
+- **1/23/24 — Scrum**
+
+---
