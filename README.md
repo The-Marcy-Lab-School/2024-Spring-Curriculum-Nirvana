@@ -1,13 +1,13 @@
 # Curriculum Resources
 
-- [**>Jump To Current Unit<**](#mod-5---object-oriented-programmin)
+- [**>Jump To Current Unit<**](#mod-5---object-oriented-programming)
 
 ## Table of Contents
 
 - [Orientation](#orientation)
 - [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
 - [Mod 1 - Core JavaScript](#mod-1---core-javascript)
-- [Mod 2 - Core: HTML, CSS, and DOM Manipulation](#mod-2---core-html-css-and-dom-manipulation)
+- [Mod 2 - Core: HTML, CSS, and DOM Manipulation](#mod-3---core-asynchronous-javascript)
 - [Mod 3 - Core: Asynchronous JavaScript](#mod-3---core-asynchronous-javascript)
 - [Mod 4 - Core: Project Week](#mod-4---core-project-week)
 - [Mod 5 - Core: Object Oriented Programming](#mod-5---object-oriented-programming)
