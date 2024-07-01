@@ -1,6 +1,6 @@
 # Curriculum Resources
 
-- [**>Jump To Current Unit<**](#mod-3---core-asynchronous-javascript)
+- [**>Jump To Current Unit<**](#mod-5---object-oriented-programmin)
 
 ## Table of Contents
 
@@ -8,6 +8,9 @@
 - [Mod 0 - Command Line, Git, Github](#mod-0---command-line-git-github)
 - [Mod 1 - Core JavaScript](#mod-1---core-javascript)
 - [Mod 2 - Core: HTML, CSS, and DOM Manipulation](#mod-2---core-html-css-and-dom-manipulation)
+- [Mod 3 - Core: Asynchronous JavaScript](#mod-3---core-asynchronous-javascript)
+- [Mod 4 - Core: Project Week](#mod-4---core-project-week)
+- [Mod 5 - Core: Object Oriented Programming](#mod-5---object-oriented-programming)
 
 ---
 
@@ -174,3 +177,34 @@ Resources
 - **1/23/24 — Scrum**
 
 ---
+## Mod 5 - Object Oriented Programming
+
+Resources
+
+* [Closures, Scope, Execution Context](https://www.youtube.com/watch?v=XTAzsODSCsM&ab_channel=Codesmith)
+* [OOP with Will sentence](https://www.youtube.com/watch?v=aAAS9cEuFYI&ab_channel=Codesmith)
+* [W3 Schools - What is `this`?](https://www.w3schools.com/js/js_this.asp)
+* [MDN - What is a closure?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+* [What are Factory Functions?](https://www.javascripttutorial.net/javascript-factory-functions/)
+* [What is Polymorphism?](https://www.youtube.com/watch?v=YkhLw5tYR6c&ab_channel=dcode)
+* [Classes are great but... use Composition Instead of Inheritance](https://www.youtube.com/watch?v=nnwD5Lwwqdo)
+
+Week 0
+
+* **7/1/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-0-encapsulation-factories-closure-f23) | [Recording](https://youtu.be/zVYpcVLxXe8)
+* **7/2/24 - Class Basics** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-1-classes-f23) | [Recording](https://youtu.be/Zl0MRLBTdq0)
+* **7/3/24 - Private Properties, Static Methods** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-2-private-properties-static-methods) | [Recording](https://youtu.be/2CjQjFLbZBk)
+* **7/4/24 - Independence Day**
+
+Week 1
+* **7/8/24 - Review** | [Repo with Code](https://github.com/benspector-mls/5-0-3-oop-review) | [Recording](https://youtu.be/yOBKtgitVK8)
+* **7/9/24 - Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-0-has-many-belongs-to-f23) | [Recording](https://youtu.be/994yn_IKogQ)
+* **7/10/24 - Lab review** | [Recording](https://youtu.be/MIOupwTF-2M)
+* **7/11/24 - Implementing Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-1-has-many-belongs-to-front-end)
+
+Week 3
+* **7/15/24 - Inheritance & Polymorphism** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-3-inheritance-polymorphism-f23) | [Recording](https://youtu.be/b9d4QTS3dDw)
+* **7/16/24 - Review** | [Review 1 Recording](https://youtu.be/p2XQ8SUTpgY) | [Review 2 Recording](https://youtu.be/REpIAwRpnS4) | [Code](https://replit.com/@BenSpector/21224-Classes-Review)
+* **7/17/24 - Short answer Assessment**
+* **7/18/24 - Coding Assessment**
+
