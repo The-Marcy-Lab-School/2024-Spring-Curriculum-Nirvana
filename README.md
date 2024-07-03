@@ -194,7 +194,7 @@ Week 0
 
 - **7/1/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-0-0-encapsulation-factories-closure-s24) | [Recording](https://us02web.zoom.us/rec/share/bMSL1U--7ff_q3KkF7sdYac2bDL42IzwKSbHKNscj2l7fyMEzjAmx1dSJp429b4i.o3AYovnQQuU7wneZ)
 - **7/2/24 - Class Basics** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-1-classes-f23) | [Recording](https://us02web.zoom.us/rec/share/XXksi2YQ7YVBnI09VsiWSILHaVaXHvY4oqhurRvg8sC2202fwUMs4NHh3Cqkc-IT.oPjFOWk5aBQ58PwS)
-- **7/3/24 - Private Properties, Static Methods** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-0-2-private-properties-static-methods) | [Recording](https://youtu.be/2CjQjFLbZBk)
+- **7/3/24 - Private Properties, Static Methods** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-0-2-private-properties-static-methods-s24) | [Recording](https://youtu.be/2CjQjFLbZBk)
 - **7/4/24 - Independence Day**
 
 Week 1
