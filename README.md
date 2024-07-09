@@ -199,8 +199,8 @@ Week 0
 
 Week 1
 
-- **7/8/24 - Review** | [Repo with Code](https://github.com/benspector-mls/5-0-3-oop-review) | [Recording](https://youtu.be/yOBKtgitVK8)
-- **7/9/24 - Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-0-has-many-belongs-to-f23) | [Recording](https://youtu.be/994yn_IKogQ)
+- **7/8/24 - Review** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-0-oop-review) | [Recording](https://youtu.be/yOBKtgitVK8)
+- **7/9/24 - Has Many/Belongs To** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-1-has-many-belongs-to-s24) | [Recording](https://youtu.be/994yn_IKogQ)
 - **7/10/24 - Lab review** | [Recording](https://youtu.be/MIOupwTF-2M)
 - **7/11/24 - Implementing Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-1-has-many-belongs-to-front-end)
 
