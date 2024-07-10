@@ -201,12 +201,12 @@ Week 1
 
 - **7/8/24 - Review** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-0-oop-review) | [Recording](https://youtu.be/yOBKtgitVK8)
 - **7/9/24 - Has Many/Belongs To** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-1-has-many-belongs-to-s24) | [Recording](https://youtu.be/994yn_IKogQ)
-- **7/10/24 - Lab review** | [Recording](https://youtu.be/MIOupwTF-2M)
-- **7/11/24 - Implementing Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-1-has-many-belongs-to-front-end)
+- **7/10/24 - Implementing Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-1-has-many-belongs-to-front-end)
+- **7/11/24 - Inheritance & Polymorphism** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-3-inheritance-polymorphism-f23) | [Recording](https://youtu.be/b9d4QTS3dDw)
 
 Week 3
-- **7/15/24 - Inheritance & Polymorphism** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-3-inheritance-polymorphism-f23) | [Recording](https://youtu.be/b9d4QTS3dDw)
-- **7/16/24 - Review** | [Review 1 Recording](https://youtu.be/p2XQ8SUTpgY) | [Review 2 Recording](https://youtu.be/REpIAwRpnS4) | [Code](https://replit.com/@BenSpector/21224-Classes-Review)
+- **7/15/24 - Review** | [Review 1 Recording](https://youtu.be/p2XQ8SUTpgY) | [Code](https://replit.com/@BenSpector/21224-Classes-Review)
+- **7/16/24 - Review** | [Review 2 Recording](https://youtu.be/REpIAwRpnS4) | [Code](https://replit.com/@BenSpector/21224-Classes-Review)
 - **7/17/24 - Short answer Assessment**
 - **7/18/24 - Coding Assessment**
 
