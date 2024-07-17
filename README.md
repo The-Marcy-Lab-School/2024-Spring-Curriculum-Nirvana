@@ -135,6 +135,7 @@ Computer Setup Instructions
 - **Deploying a Vite Project on GitHub pages** | [Repo](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
 
 **Project Week projects:**
+
 - Project Option A - [Palette Picker](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_palette-picker)
 - Project Option B - [Compare Movies ChartJS](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_compare-movies)
 
@@ -147,7 +148,7 @@ Resources
 Week 0
 
 - **6/10/24 - Intro to Promises** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-0-intro-to-promises-S24) | [Recording](https://us02web.zoom.us/rec/share/jDWCBuO_czipwzaxyVfsS4q2hjA3x4Z1d_krKJhtHJ7n2wlmKxxZNDH_AhKxVazi.JULtdszn_5UwbyAA)
-- **6/10/24 - Lab Review: Promises** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-0-intro-to-promises-S24/tree/main/lab-review) | 
+- **6/10/24 - Lab Review: Promises** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-0-intro-to-promises-S24/tree/main/lab-review) |
 - **6/11/24 - Intro to Fetch** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-1-intro-fetch-S24) | [Recording](https://us02web.zoom.us/rec/share/wtJNaGAqlCX64lVFhE9FBHYFuDtaEreQ3NBCxX3E-fbjUQCgpe0VwVRa_p1RfXtI.lqbvOq5wSxHLOblO)
 - **6/12/24 - Building a Pokemeon API Search Form** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-2-pokedex-search-api-S24) | [Recording](https://us02web.zoom.us/rec/share/V3K-4nO52zhx0Rz3bkAHUXRnpafnqQymGqowOrbIBo64UT8qyQm41Dpswdv_azvM.j2o9_yy6xk-CRbOU)
 - **6/12/24 - Lab Review** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-2-pokedex-search-api-S24) | [Recording](https://us02web.zoom.us/rec/share/xkE_oIMGFa8YvTjVVP4aRatBuIZYJJdUchy3QW8FJVHcs-X006NE65DAR2PnF5AA.EqMLZyOdjOxCF06q)
@@ -155,9 +156,8 @@ Week 0
 
 Week 1
 
-- **TBA - DOM Review** | [Recording](https://youtu.be/bKCYETgm6vk)
-- **TBA - Async Review** | [Recording](https://youtu.be/FlnRSSZhOnc)
-- **TBA - Fetch & Render Lab Review** | [Recording](https://youtu.be/qWXbg6aqEzM)
+- **TBA - DOM Review** | [Recording](https://us02web.zoom.us/rec/share/maAiIWpxTkxyb34l6ng6ph2t1GMfFj8oz5d_LbYzOWMxAQ4hw2I2_gX491MgXnmZ.IB6thQYy7q2qXnv7) [lab Review Recording](https://us02web.zoom.us/rec/share/BFNS8dkKIAQo8sUArT7Y2tGUpZRJP1GGa-j0pCS5yyojZDelsFoVTrsGHEIrobFW.zpiJbj9vHM6wOX6C)
+- **TBA - Async Review** | [Recording](https://us02web.zoom.us/rec/share/LxuxEtbW5Xtrmwt92J56qlINNBV5gghnYowFF0f0Yf3C6bZhv8gSvR_DNLZg0U1M.tHS_TT3pHlKCFJAf)
 - **TBA - DOM + Async Assessment**
 
 ## Mod 4 - Core: Project Week
@@ -172,9 +172,9 @@ Resources
 - [Scrum Board Example](https://github.com/users/benspector-mls/projects/3/views/1?layout=board)
 - [Project Presentation Template](https://docs.google.com/presentation/d/1NvzL4yUaVSNFlmNtG3shNdK4j0oW3Ll2zbq8gK2vrzQ/edit?usp=sharing)
 
-- **1/22/24 — Mod 3 Assessment Review** | [Recording](https://youtu.be/dv-A1qGX7iY)
-- **1/22/24 — Project Week Kickoff** | [Recording](https://youtu.be/wsRK3fslq68)
-- **1/23/24 — Scrum**
+- **Mod 3 Assessment Review** | [Recording](https://youtu.be/dv-A1qGX7iY)
+- **Project Week Kickoff** | [Recording](https://youtu.be/wsRK3fslq68)
+- **Scrum**
 
 ---
 
@@ -206,8 +206,125 @@ Week 1
 
 Week 3
 
-- **7/15/24 - Review** | [Review 1 Recording](https://youtu.be/p2XQ8SUTpgY) | [Code](https://replit.com/@BenSpector/21224-Classes-Review)
-- **7/16/24 - Review** | [Review 2 Recording](https://youtu.be/REpIAwRpnS4) | [Code](https://replit.com/@BenSpector/21224-Classes-Review)
-- **7/17/24 - Short answer Assessment**
-- **7/18/24 - Coding Assessment**
+- **7/15/24 - Review** | [Review 1 Recording](https://us02web.zoom.us/rec/share/9KXZsclfsuiqKYg2nS24bf0dsKZV41bXnBeYMlRep3HbOklZQ-XjE3nM7zahTNRk.fcdiOAt_gG_9gBE7Y) | [Code](https://github.com/The-Marcy-Lab-School/mod-5-study-guide)
+- **7/16/24 - Deep Work day** |
+- **7/17/24 - Short answer Assessment** [Canvas Assignment](https://canvas.instructure.com/courses/8631897/assignments/47994819?module_item_id=112652346)
+- **7/18/24 - Coding Assessment** [Canvas Assignment](https://canvas.instructure.com/courses/8631897/assignments/47994819?module_item_id=112652346)
 
+## Mod 6 - Data Structures & Algorithms
+
+Resources
+
+- [Video: Learn Big O Notation In 6 Minutes](https://youtu.be/XMUe3zFhM5c?feature=shared)
+- [Video: What are Abstract Data Types?](https://youtu.be/XkoeF-xXo2o?feature=shared&t=187)
+
+Week 0
+
+- **7/22/24 - Nodes and Linked Lists** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-0-nodes-and-linked-lists) | [Recording](https://youtu.be/h1o5znFYctg)
+- **7/23/24 - LinkedLists Continued** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-1-linked-list-continued)
+- **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-2-stack-and-queues)
+
+Week 1
+
+- **7/29/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/13-IR6ZZeyiB00kdfHFGWK5tCszx6cWs9RjLeZ1H_U84/edit) | [Recording](https://youtu.be/Fe3oqev0Xgw)
+- **7/30/24 - Trees** | [Slides](https://docs.google.com/presentation/d/11-mGuprRi2CQbr7pXc1ROPI8fVsh2RKjTxYkhYawtzc/edit?usp=sharing) | Recording
+-*  **7/31/24 - Tree Traversal** | [Slides](https://docs.google.com/presentation/d/1mveK7bJpZrhZcEbEjH0QFqRkTzVF3wd19sarxT2CvXc/edit#slide=id.g2bd5a89c1a5_0_365) | [LinkedList Recursive Traversal Code](https://replit.com/@madhur-marcy/Mod6-RecursiveLinkedLists#index.js) | [Tree Traversal Code](https://replit.com/@madhur-marcy/Mod6-TreeTraversals#index.js)
+
+---
+
+## Mod 7 - React
+
+Resources
+
+- [React practice](https://react.dev/learn)
+- [Brian Holt React Corse](https://react-v8.holt.courses/)
+- [Brian Holt React Corse GitHub](https://github.com/btholt/complete-intro-to-react-v8)
+- [React Week 1 Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-react)
+
+Week 0
+
+- **8/5/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react) | [Recording](https://youtu.be/KPKZJfRlCoE) | [Lab Review Recording](https://youtu.be/lsV4OZ7LsAw)
+- **8/6/24 - useState & forms** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-1-managing-state-and-forms) | [Recording](https://youtu.be/f3V3e1Rxgjc)
+- **8/7/24 - fetching & useEffect** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-2-async-useEffect) | [fetching Recording](https://youtu.be/a3sVzxK0E58) | [useEffect + GIPHY API recording](https://youtu.be/90dZ8mLq1UM)
+- **8/8/24 - Review + JSON Server + Flashcard App** | [Repo with Code](https://github.com/benspector-mls/flashcards) | [Recording](https://youtu.be/5kECo53eWn8)
+
+Week 1
+
+- **8/12/24 - React Context** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-0-react-context) | [Recording](https://youtu.be/PiT_TGlr5EI)
+- **8/13/24 - Global Context Provider Pattern** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-1-global-context-pattern) | [Recording](https://youtu.be/Ud0UbVK0xis)
+- **8/14/24 - React Router** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-2-react-router) | [Recording](https://youtu.be/SAu-z-hchQU)
+- **8/15/24 - Putting It All Together Review** | [Repo with Code](https://github.com/benspector-mls/7-1-3-react-context-router-review-f23) | [Recording](https://youtu.be/ow7lMsoOPjU)
+
+Week 2 — Project Week!
+
+- [Project Overview](https://github.com/The-Marcy-Lab-School/react-api-project)
+- [How to deploy json-server](https://chrisdevcode.hashnode.dev/how-to-create-and-deploy-a-json-server)
+
+---
+
+## Mod 8 - Backend
+
+Resources
+
+- [Express Docs](https://expressjs.com/)
+- [Express MDN Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+- [Best Practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+- [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+- [Video: What is Postgres?](https://www.youtube.com/watch?v=Yfrrjt1ieyk&ab_channel=Kinsta)
+- [Launch School Intro to SQL Online Textbook](https://launchschool.com/books/sql)
+- [Khan Academy SQL Course](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
+- [SQL Cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+- [Video: What is OAuth?](https://www.youtube.com/watch?v=t4-416mg6iU&ab_channel=JavaBrains)
+- [React + Express + Auth Template Repo](https://github.com/The-Marcy-Lab-School/react-express-auth)
+
+Week 0*
+
+- **4/1/24 - Intro to Express** | [Repo with Code](./Mod-8/week-0/8-0-0-intro-to-express-f23/) | [Recording](https://us02web.zoom.us/rec/play/PohA4190n7tNEbmOZpyVqNs-tf371hln0Tcz1l93KMFd297-3umYGMR7UO6uYVEF0oQNGErCJGIttDr8.lX_eL8CZkZ-UsyPH?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FJwpygwln72y5vDIWOae_ql9YWTaDSU7jGAfC1f16AQGOcllab_NjPYML765lLmxi.73Fk-6jEFX6A4iY3)
+- **4/2/24 - Express Middleware (Static Server)** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-1-express-middleware) | Recording
+- **4/3/24 - Server-Side API Requests** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-0-2-express-api-middleman) | [Recording](https://us02web.zoom.us/rec/share/3-o2HfY94zv5z4ED01-J5rrP-X9qk0SrAQlxZWDHCA1O1hT5fjz6UB5lHVVmDZwL.Xvs66ybye8LJQpco)
+
+Week 1
+
+- **4/8/24 - Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Recording](https://us02web.zoom.us/rec/share/M2swyTJFZay0lnLPC33xgNF5nY9WIQsmHq5NRiG32-D4f0xfBxexq2QhcFBg4aMM.2psxUE3T8JjD9XOC)
+- **4/10/24 - Frontend/Backend App Build Review** | [Recording](https://us02web.zoom.us/rec/share/nkN7WE7Pge4McRvfWRicBIhDXbve8nZwnnTiZnMgMekSLOzzLnUNRAb97RCw_KFp._dN_xJv3Bh0Zepi1) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/0-fullstack-get-all)
+- **4/11/24 - MVC: Creating a Resource** | [Recording](https://youtu.be/Wu7ClCxdoz8) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/1-fullstack-create)
+
+Week 3
+
+- **4/15/24 - Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | [Recording](https://us02web.zoom.us/rec/share/TjZCRdT4uYemIoQkaJVy1eIMn_tWHxwpy3Rrxm8vYKpEbsHiVbl95zGpI-YcvQKB.cAeUN3HwRsh56ugv)
+- **4/16/24 - Relationships Between Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations) | [Recording](https://us02web.zoom.us/rec/share/jJihpNdQv8TO97v0cKmvoVgxEsXWDPoZrBCl5XrxmjeFjbMDmTjqN9nSXsLrE5x_.olgmpVAQD3joNAQw)
+- **4/17/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording](https://us02web.zoom.us/rec/share/w8WJwGXoQWJXOjEOmgBCauCUvMofT1r5kUcgrHN1TlUFEoGegBA5OYQxaNaqGAF8.wwh6YtXM5ZUnxZp3)
+- **4/18/24 - SQL + Knex Review** | Same repo as above | [Recording](https://us02web.zoom.us/rec/share/TQQSLSzT7lNZk5Yy1jcQNqkBpfjdGFsEngoZdzcvcxXD0wp_37jcW9u1TlaJyZwh.8E_bEbfmhcAnXUUU)
+
+Week 4
+
+- **4/22/24 - Adding a Database To The Fellows Model** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://us02web.zoom.us/rec/share/sCXNJeVXAPvG9xW0IxJfyBXxtpl8l8qfTaUAbYnU00ZEurWK0hsfv7C7Rmjf1Qag.h8ezQT0SasJqMzuA)
+- **4/23/24 - Building A Fullstack App (frontend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://us02web.zoom.us/rec/share/uY4O4codabLxhQywqHcWqzEem8ZcrqT0U_49SZrE0OtauTnlZKKA0Y7VDTyzXMOr.qo_bdQ7A5AFiQCPy)
+- **4/24/24 - Migrations & Seeds** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-2-migrations-seeds) | [Recording](https://youtu.be/dgiv4lafqAk)
+- **4/25/24 - Database Schema Design + ERDs** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-3-schema-design) | [Recording](https://youtu.be/33lgJRVbTt8)
+
+Week 5
+
+- **4/29/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://us02web.zoom.us/rec/share/Vf6GgjZ2MhebAWeAZneJK54yq7P_uXxk1x7VBIM90jI-jQxZBRYX0wc4DqU3rQi-.nRhM-yyaHlQiMt1r)
+- **4/29/24 - Lab Review: React Express Auth Backend Routing** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://us02web.zoom.us/rec/share/3Sc4m8REJ3H0C7aIwXYxD9LC8SMOjQtyHizXHKOFsVWaSObCrG4Nxe5Z_foWrt3v.BAmZjhOGp6gzmqHt)
+
+- **4/30/24 - Practice Building with the Auth Template**[Recording](https://us02web.zoom.us/rec/share/xr3Vdw9c-HUu8OsOy51L48iOgo8ojN9sj5dAMgKKKpGeG1EY8Vmxk8P5qsOYpYcz.wI-Robe52dObJQC9)
+
+- **5/1/24 - User Login** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/f9zwwaYgYW8)
+
+---
+
+## Civic Tech Hackathon
+
+- **General Resources**
+  - [Civic Tech Hackathon Rubric](https://docs.google.com/spreadsheets/d/1NooPoda9wb4EOKGYWLsMWCWXYOy9fq0FuS0lDaCv0IU/edit#gid=35795624)
+  - [Civic Tech Hackathon Handbook](https://docs.google.com/document/d/1w_a5vnOm0eSkIByL9eXaoN-2vlxZ4c4AJTxRwGMhFSk/edit)
+- **Technical Resources**
+  - [React Express Auth Template](https://github.com/The-Marcy-Lab-School/react-express-auth)
+  - [How to Deploy On Render](https://github.com/The-Marcy-Lab-School/render-deployment-instructions)
+  - [React Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-react)
+  - [Backend Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-backend)
+- **Sprint Kickoff Slides:**
+  - [Week 1](https://docs.google.com/presentation/d/1KjqlofaHPwRvrr3Uj121staVAMUjxqtdZru528X-_JU/edit#slide=id.g1ff32f38cc1_0_252)
+  - [Week 2](https://docs.google.com/presentation/d/1h3Xc9z2Zn_vPaSnF2HZwssWzvBOHpWyiJCIjq7EAKnc/edit?usp=sharing)
+  - [Week 3](https://docs.google.com/presentation/d/1YT1QHjcbZXv08rbFjWXkfeyQ0ez5K-gDCcDUqQMDVxw/edit?usp=sharing)
