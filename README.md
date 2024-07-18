@@ -182,7 +182,9 @@ Resources
 
 Resources
 
+- [Intro to functions, execution context, and the call stack (review)](https://www.youtube.com/watch?v=exrc_rLj5iw&ab_channel=Codesmith)
 - [Closures, Scope, Execution Context](https://www.youtube.com/watch?v=XTAzsODSCsM&ab_channel=Codesmith)
+- [Callbacks and Higher Order Functions](https://www.youtube.com/watch?v=viQz4nUUnpw&ab_channel=Codesmith)
 - [OOP with Will sentence](https://www.youtube.com/watch?v=aAAS9cEuFYI&ab_channel=Codesmith)
 - [W3 Schools - What is `this`?](https://www.w3schools.com/js/js_this.asp)
 - [MDN - What is a closure?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
