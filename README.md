@@ -230,7 +230,7 @@ Week 1
 
 - **7/29/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/13-IR6ZZeyiB00kdfHFGWK5tCszx6cWs9RjLeZ1H_U84/edit) | [Recording](https://youtu.be/Fe3oqev0Xgw)
 - **7/30/24 - Trees** | [Slides](https://docs.google.com/presentation/d/11-mGuprRi2CQbr7pXc1ROPI8fVsh2RKjTxYkhYawtzc/edit?usp=sharing) | Recording
--*  **7/31/24 - Tree Traversal** | [Slides](https://docs.google.com/presentation/d/1mveK7bJpZrhZcEbEjH0QFqRkTzVF3wd19sarxT2CvXc/edit#slide=id.g2bd5a89c1a5_0_365) | [LinkedList Recursive Traversal Code](https://replit.com/@madhur-marcy/Mod6-RecursiveLinkedLists#index.js) | [Tree Traversal Code](https://replit.com/@madhur-marcy/Mod6-TreeTraversals#index.js)
+-*  **7/31/24 - Tree Traversal** |[Repo](https://github.com/The-Marcy-Lab-School/6-1-2-tree-traversal) | [Slides](https://docs.google.com/presentation/d/1mveK7bJpZrhZcEbEjH0QFqRkTzVF3wd19sarxT2CvXc/edit#slide=id.g2bd5a89c1a5_0_365) | [Replit: LinkedList Recursive Traversal Code](https://replit.com/@madhur-marcy/Mod6-RecursiveLinkedLists#index.js) | [Repelit: Tree Traversal Code](https://replit.com/@madhur-marcy/Mod6-TreeTraversals#index.js)
 
 ---
 

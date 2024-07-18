@@ -3,6 +3,7 @@
 Resources
 
 - [Video: Learn Big O Notation In 6 Minutes](https://youtu.be/XMUe3zFhM5c?feature=shared)
+- [What is Big O Notation Explained](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
 - [Video: What are Abstract Data Types?](https://youtu.be/XkoeF-xXo2o?feature=shared&t=187)
 
 Week 0
