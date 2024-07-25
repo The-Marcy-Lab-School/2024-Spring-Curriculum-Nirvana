@@ -222,9 +222,9 @@ Resources
 
 Week 0
 
-- **7/22/24 - Nodes and Linked Lists** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-0-nodes-and-linked-lists) | [Recording](https://youtu.be/h1o5znFYctg)
+- **7/22/24 - Nodes and Linked Lists** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-0-nodes-and-linked-lists) | [Recording](https://youtu.be/h1o5znFYctg) | [Carmen's 7/22 lecture](https://us02web.zoom.us/rec/share/lYl_4ZK0nyICaHgENsLv1uPQ6CCvMMDB413dodX-RMNf4uUVesvJHpYd05ECKkxI.6pktB_kYTtrK6KnJ) | [Carmen's 7/22 lab review](https://us02web.zoom.us/rec/share/5W1AzHObD7Iv9zsfYiEJu3XUVXLfKSL5tXXKsQHZ2zJNH2qhHc56eTsc3anLwX1c.WqTotmHxVU6ucGR6)
 - **7/23/24 - LinkedLists Continued** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-1-linked-list-continued)
-- **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-2-stack-and-queues)
+- **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-2-stack-and-queues) | [Carmen's lecture 7/24](https://us02web.zoom.us/rec/share/p62diCuPz9vAFbdTbGtgVcb7vQqC8-SEZMS_9HJ4GONh1-rj5vAm787PdTh2DPkh.eJFf1-ds53HHUQG_)
 
 Week 1
 
