@@ -218,17 +218,18 @@ Week 3
 Resources
 
 - [Video: Learn Big O Notation In 6 Minutes](https://youtu.be/XMUe3zFhM5c?feature=shared)
+- [Big-O notation slides](https://docs.google.com/presentation/d/1fBmeBGeSiC17lVWLOWC38ur2ZhVPY22GG-eX0aJ1cS4/edit?usp=sharing)
 - [Video: What are Abstract Data Types?](https://youtu.be/XkoeF-xXo2o?feature=shared&t=187)
 
 Week 0
 
-- **7/22/24 - Nodes and Linked Lists** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-0-nodes-and-linked-lists) | [Recording](https://youtu.be/h1o5znFYctg) | [Carmen's 7/22 lecture](https://us02web.zoom.us/rec/share/lYl_4ZK0nyICaHgENsLv1uPQ6CCvMMDB413dodX-RMNf4uUVesvJHpYd05ECKkxI.6pktB_kYTtrK6KnJ) | [Carmen's 7/22 lab review](https://us02web.zoom.us/rec/share/5W1AzHObD7Iv9zsfYiEJu3XUVXLfKSL5tXXKsQHZ2zJNH2qhHc56eTsc3anLwX1c.WqTotmHxVU6ucGR6)
-- **7/23/24 - LinkedLists Continued** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-1-linked-list-continued)
-- **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-2-stack-and-queues) | [Carmen's lecture 7/24](https://us02web.zoom.us/rec/share/p62diCuPz9vAFbdTbGtgVcb7vQqC8-SEZMS_9HJ4GONh1-rj5vAm787PdTh2DPkh.eJFf1-ds53HHUQG_)
+- **7/22/24 - Nodes and Linked Lists** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-0-nodes-and-linked-lists) | [Recording](https://youtu.be/h1o5znFYctg) | [Slides](https://docs.google.com/presentation/d/1u92Dy8PoiI4HUqYY7K13bqaPQz1nmWlM-5-m7v2YF9E/edit?usp=sharing) | [Carmen's 7/22 lecture](https://us02web.zoom.us/rec/share/lYl_4ZK0nyICaHgENsLv1uPQ6CCvMMDB413dodX-RMNf4uUVesvJHpYd05ECKkxI.6pktB_kYTtrK6KnJ) | [Carmen's 7/22 lab review](https://us02web.zoom.us/rec/share/5W1AzHObD7Iv9zsfYiEJu3XUVXLfKSL5tXXKsQHZ2zJNH2qhHc56eTsc3anLwX1c.WqTotmHxVU6ucGR6)
+- **7/23/24 - LinkedLists Continued** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-1-linked-list-continued) | [Slides](https://docs.google.com/presentation/d/1qSwdTFI7ups5epd_bWFa1443-7MdyUCGoLrywK7tEUE/edit?usp=sharing) | [Linked List Algorithms Lecture(Carmen)](https://youtu.be/vs9f5QAXTSE)
+- **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-0-2-stack-and-queues) | [Slides](https://docs.google.com/presentation/d/1Js_JHmtcJg6spP-oxxnXtYjUf0qSMlEsisxm7oDZgX0/edit?usp=sharing) |[Carmen's lecture 7/24](https://us02web.zoom.us/rec/share/p62diCuPz9vAFbdTbGtgVcb7vQqC8-SEZMS_9HJ4GONh1-rj5vAm787PdTh2DPkh.eJFf1-ds53HHUQG_)
 
 Week 1
 
-- **7/29/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/13-IR6ZZeyiB00kdfHFGWK5tCszx6cWs9RjLeZ1H_U84/edit) | [Recording](https://youtu.be/Fe3oqev0Xgw) | [Carmen's lecture from F23](https://youtu.be/Fe3oqev0Xgw)
+- **7/29/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/1Js_JHmtcJg6spP-oxxnXtYjUf0qSMlEsisxm7oDZgX0/edit?usp=sharing) | [Recording](https://youtu.be/Fe3oqev0Xgw) | [Carmen's lecture from F23](https://youtu.be/Fe3oqev0Xgw)
 - **7/30/24 - Trees** | [Slides](https://docs.google.com/presentation/d/11-mGuprRi2CQbr7pXc1ROPI8fVsh2RKjTxYkhYawtzc/edit?usp=sharing) | Recording
 -*  **7/31/24 - Tree Traversal** |[Repo](https://github.com/The-Marcy-Lab-School/6-1-2-tree-traversal) | [Slides](https://docs.google.com/presentation/d/1mveK7bJpZrhZcEbEjH0QFqRkTzVF3wd19sarxT2CvXc/edit#slide=id.g2bd5a89c1a5_0_365) | [Replit: LinkedList Recursive Traversal Code](https://replit.com/@madhur-marcy/Mod6-RecursiveLinkedLists#index.js) | [Repelit: Tree Traversal Code](https://replit.com/@madhur-marcy/Mod6-TreeTraversals#index.js)
 
