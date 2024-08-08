@@ -9,10 +9,10 @@ Resources
 
 Week 0
 
-- **8/5/24 - Intro to React** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-0-intro-react) | [Recording](https://youtu.be/KPKZJfRlCoE) | [Lab Review Recording](https://youtu.be/lsV4OZ7LsAw)
-- **8/6/24 - useState & forms** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-1-managing-state-and-forms) | [Recording](https://youtu.be/f3V3e1Rxgjc)
-- **8/7/24 - fetching & useEffect** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-0-2-async-useEffect) | [fetching Recording](https://youtu.be/a3sVzxK0E58) | [useEffect + GIPHY API recording](https://youtu.be/90dZ8mLq1UM)
-- **8/8/24 - Review + JSON Server + Flashcard App** | [Repo with Code](https://github.com/benspector-mls/flashcards) | [Recording](https://youtu.be/5kECo53eWn8)
+- **8/5/24 - Intro to React** | [Repo with Code](https://github.com/Gonzalomarcylabschool/7-0-0-intor-to-react) | [Recording](https://us02web.zoom.us/rec/share/UwC3bbeCALZU3vQsgtSh8fL_JAUgC0d4rngYyPj0ibbMjzJ8fuJD2grBZQ6QF0io.N54gd48l70J1axlB) | [Lab Review Recording](https://us02web.zoom.us/rec/share/oqrn0yutfvm-Ywkd8dItAd2Lg9ToqobAx3zzuYP-hx5gyBu4U1SnFSENuFegNrrC.iIdpoWVZ9azfFk2t)
+- **8/6/24 - useState & forms** | [Repo with Code](https://github.com/Gonzalomarcylabschool/7-0-1-managin-state-and-forms) | [Recording](https://us02web.zoom.us/rec/share/HoPMx1z50qFlpq479hphRGQYfYFTXnXTxcW9XN2cLWNGDt3u1LwbQOQzzkebjRzO.maaGbcU67_b0pKWj)
+- **8/7/24 - fetching & useEffect** | [Repo with Code](https://github.com/Gonzalomarcylabschool/7-0-2-async-useEffect) | [fetching Recording](https://us02web.zoom.us/rec/share/zt-Jlt6sg6CXlNWjNWdT76EqExVuYlIH8uPEXKptepJ36qzeeNOzfbvV7GbS2Yl1.REan6y7NFBai5Sbc) | [Lab Review recording](https://us02web.zoom.us/rec/share/l3On4u5_zF_zq3TCgsUOgMn5xJjprH_iVvjfXmBYKAZ9_i63BUSLRBMWiAdkeLkD.8VkE7urcIyl4GTxK)| [useEffect + GIPHY API recording](https://youtu.be/90dZ8mLq1UM)
+- **8/8/24 - Review + JSON Server + Flashcard App** | [Repo with Code](https://github.com/Gonzalomarcylabschool/flashcards) | [Recording](https://youtu.be/5kECo53eWn8)
 
 Week 1
 
