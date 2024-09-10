@@ -295,7 +295,7 @@ Week 0*
 Week 1
 
 - **4/8/24 - Data Model + API** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Recording](https://us02web.zoom.us/rec/share/M2swyTJFZay0lnLPC33xgNF5nY9WIQsmHq5NRiG32-D4f0xfBxexq2QhcFBg4aMM.2psxUE3T8JjD9XOC)
-- **4/10/24 - Frontend/Backend App Build Review** | [Recording]() | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/0-fullstack-get-all)
+- **4/10/24 - REST API + Postman** | [Recording](https://us02web.zoom.us/rec/share/6qDu3Bu8caQI-LM5YEajEEMGFlH51a4-Frw5k2qddhGt71obzjsR9RuGU1esUeI.POtRWMTDm4XNOV8G) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/0-fullstack-get-all)
 - **4/11/24 - MVC: Creating a Resource** | [Recording](https://youtu.be/Wu7ClCxdoz8) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/1-fullstack-create)
 
 Week 3
