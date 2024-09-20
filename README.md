@@ -298,13 +298,13 @@ Week 1
 - **4/10/24 - REST API + Postman** | [Recording](https://us02web.zoom.us/rec/share/6qDu3Bu8caQI-LM5YEajEEMGFlH51a4-Frw5k2qddhGt71obzjsR9RuGU1esUeI.POtRWMTDm4XNOV8G) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/0-fullstack-get-all)
 - **4/11/24 - MVC: Creating a Resource** | [Recording](https://youtu.be/Wu7ClCxdoz8) | [Final Code](https://github.com/benspector-mls/8-1-2-frontend-backend-app-build-review-f23/tree/main/1-fullstack-create)
 
-Week 3
+**Week 2**
 
-- **4/15/24 - Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | [Recording](https://us02web.zoom.us/rec/share/TjZCRdT4uYemIoQkaJVy1eIMn_tWHxwpy3Rrxm8vYKpEbsHiVbl95zGpI-YcvQKB.cAeUN3HwRsh56ugv)
-- **4/16/24 - Relationships Between Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations) | [Recording](https://us02web.zoom.us/rec/share/jJihpNdQv8TO97v0cKmvoVgxEsXWDPoZrBCl5XrxmjeFjbMDmTjqN9nSXsLrE5x_.olgmpVAQD3joNAQw)
-- **4/17/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording](https://us02web.zoom.us/rec/share/w8WJwGXoQWJXOjEOmgBCauCUvMofT1r5kUcgrHN1TlUFEoGegBA5OYQxaNaqGAF8.wwh6YtXM5ZUnxZp3)
-- **4/18/24 - SQL + Knex Review** | Same repo as above | [Recording](https://us02web.zoom.us/rec/share/TQQSLSzT7lNZk5Yy1jcQNqkBpfjdGFsEngoZdzcvcxXD0wp_37jcW9u1TlaJyZwh.8E_bEbfmhcAnXUUU)
-
+- **9/16/24 - Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | [Recording](https://us02web.zoom.us/rec/share/O7c1M9NlGlwmPPSGo32TrztODZTv1t75VoINmhjI4PZQgGpfNssufmXOWoQ4T7Wv.cec7XfI-NYYi_8Wk)
+- **9/17/24 - Relationships Between Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations) | [Recording](https://us02web.zoom.us/rec/share/1cD8vpM72AxeWiU3eqN1tLqXpRt8yL2MxWwHQldeLFG3IC45wpcFxK_FMBcORIW0.jn_vW4nrMRjM739P)
+- **9/18/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording](https://us02web.zoom.us/rec/share/-P6ep6TjabOkMrYfKUe0aIG-lUf5sXj-mTIuy7ahJr94m2bQw3H3aYup7MfvB0yk.74Te0TanwTbaC0vg)
+- **9/19/24 - SQL + Knex Review(many-to-many relationships)** | Same repo as above | [Recording](https://us02web.zoom.us/rec/share/1dC7m-79KO9ghtkIwaySG7Rwgj2ZYA-pv-_hX8oCMlLqdGHq1PBTk4fFocscOqZH.yvw-KDQgJBrbzUbc)
+  
 Week 4
 
 - **4/22/24 - Adding a Database To The Fellows Model** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://us02web.zoom.us/rec/share/sCXNJeVXAPvG9xW0IxJfyBXxtpl8l8qfTaUAbYnU00ZEurWK0hsfv7C7Rmjf1Qag.h8ezQT0SasJqMzuA)
