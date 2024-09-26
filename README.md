@@ -307,10 +307,10 @@ Week 1
   
 Week 4
 
-- **4/22/24 - Adding a Database To The Fellows Model** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://us02web.zoom.us/rec/share/sCXNJeVXAPvG9xW0IxJfyBXxtpl8l8qfTaUAbYnU00ZEurWK0hsfv7C7Rmjf1Qag.h8ezQT0SasJqMzuA)
-- **4/23/24 - Building A Fullstack App (frontend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://us02web.zoom.us/rec/share/uY4O4codabLxhQywqHcWqzEem8ZcrqT0U_49SZrE0OtauTnlZKKA0Y7VDTyzXMOr.qo_bdQ7A5AFiQCPy)
-- **4/24/24 - Migrations & Seeds** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-2-migrations-seeds) | [Recording](https://youtu.be/dgiv4lafqAk)
-- **4/25/24 - Database Schema Design + ERDs** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-3-schema-design) | [Recording](https://youtu.be/33lgJRVbTt8)
+- **9/23/24 - Adding a Database To The Fellows Model** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://us02web.zoom.us/rec/share/V2JbVfZMpUpeQ5AvfWe-xlqgqwLMfj1ZQS8SqnSeeWAfAIrnaSAvnsNirV8NWi8.2Cuc5ZOMU0v0AHSn)
+- **9/24/24 - Building A Fullstack App (frontend)** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-3-fellows-tracker-refactor-with-database) | [Recording](https://us02web.zoom.us/rec/share/HvIQDt3gvb9CeANb-fO3981kZyFNvL62UXrVzQ5sz-G7ibH2YPk4qXQfyOnWu5B4.fdKgk9mcQD078hOF)
+- **9/25/24 - Migrations & Seeds** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-2-migrations-seeds) | [Recording](https://us02web.zoom.us/rec/share/x3RpKlih_dAlozII6R0LnYxhG0oqyvPhsKoTOwnXnpPwC-YYyNJGb-zU5HzIhjYX.ftQjqLlY0fBLhlL2)
+- **9/26/24 - Database Schema Design + ERDs** | [Repo](https://github.com/The-Marcy-Lab-School/8-3-3-schema-design) | [Recording](https://us02web.zoom.us/rec/share/WGcwY5Y7-hHr5wsAJfMbK50CnYGXxRd4vemShxOvJQ3pYu_vkIFH0TwL5Q6zkSlp.1dipiIXfaYsfK5X6)
 
 Week 5
 
