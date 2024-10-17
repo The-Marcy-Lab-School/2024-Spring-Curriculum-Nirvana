@@ -314,12 +314,12 @@ Week 4
 
 Week 5
 
-- **4/29/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://us02web.zoom.us/rec/share/Vf6GgjZ2MhebAWeAZneJK54yq7P_uXxk1x7VBIM90jI-jQxZBRYX0wc4DqU3rQi-.nRhM-yyaHlQiMt1r)
-- **4/29/24 - Lab Review: React Express Auth Backend Routing** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://us02web.zoom.us/rec/share/3Sc4m8REJ3H0C7aIwXYxD9LC8SMOjQtyHizXHKOFsVWaSObCrG4Nxe5Z_foWrt3v.BAmZjhOGp6gzmqHt)
+- **9/30/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://us02web.zoom.us/rec/share/geSOiryTVdHRxepCLANG8nc-et3kW1zx663gRQ6ORdaJCzA06xatUrYPuzruecJc.NKaKU41154XoUvWe)
+- **10/1/24 - Lab Review: React Express Auth Backend Routing** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://us02web.zoom.us/rec/share/R7RzlkUzEh-yxW19wT9NZ48JEMWMc5u4nvbqKYy08HEPebcY9R5Ib8Rgb0iAJZfB.WaGI11Wurbj3nVHa)
 
-- **4/30/24 - Practice Building with the Auth Template**[Recording](https://us02web.zoom.us/rec/share/xr3Vdw9c-HUu8OsOy51L48iOgo8ojN9sj5dAMgKKKpGeG1EY8Vmxk8P5qsOYpYcz.wI-Robe52dObJQC9)
+- **10/2/24 - Practice Building with the Auth Template**[Recording](https://us02web.zoom.us/rec/share/0M43DNMmnL_Ow0cTCMJTjN3f16IB9nQnS-7DI1jlu2sW2Bb5nDJj4X3CyGoBeKO9.mS2EpwCoyKNu36Tx)
 
-- **5/1/24 - User Login** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/f9zwwaYgYW8)
+- **10/3/24 - User Login** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://us02web.zoom.us/rec/share/sSK6m0CYcufzzOZf3VtS9L1fthFV99pxSA1Weel21g6360_n6TqUnX8MUAhA1Ooh.ZD6PSl7NPq-o6FTD)
 
 ---
 
